@@ -89,4 +89,5 @@ Constraints:
 
 Outcome:
 
-A structured and extensible simulation that demonstrates the application of advanced OOP concepts in a creative and interactive setting. The project promotes strategic thinking and careful resource management through realistic battle dynamics and constraints.
+A structured and extensible simulation that demonstrates the application of advanced OOP concepts in a creative and interactive setting. The project promotes strategic thinking and careful resource management through realistic battle dynamics and constraints.[Avengers’ Quantum Suit Upgrade.pdf](https://github.com/user-attachments/files/20349468/Avengers.Quantum.Suit.Upgrade.pdf)
+
